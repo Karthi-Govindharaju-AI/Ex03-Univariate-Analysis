@@ -19,9 +19,10 @@ Mention the datatypes from the data.
 
 ## Step5
 Count the values from the data.
-superstore.csv
+```
 Developed By : NIKHIL M
 reference number: 212222230095
+```
 ## Superstore.csv
 ```
 import pandas as pd
@@ -60,12 +61,29 @@ df.kurtosis()
 ```
 # OUTPUT
 ## Superstore.csv
-Screenshot 2023-03-27 203824 Screenshot 2023-03-28 155312 Screenshot 2023-03-28 155321 Screenshot 2023-03-28 155331 Screenshot 2023-03-28 155339 Screenshot 2023-03-28 155346 Screenshot 2023-03-28 155353 Screenshot 2023-03-28 155400 Screenshot 2023-03-28 155412
 
-# OUTPUT 
+![Screenshot 2023-03-27 203824](https://user-images.githubusercontent.com/118680410/228207821-4c5919f1-2ef7-4c93-89fe-10e0d11c530a.png)
+![Screenshot 2023-03-28 155312](https://user-images.githubusercontent.com/118680410/228207826-a8c4eede-6fc5-4fbf-b7ec-23f1b49917b7.png)
+![Screenshot 2023-03-28 155321](https://user-images.githubusercontent.com/118680410/228207836-624685a0-434e-4d37-9204-ed2351b96b07.png)
+![Screenshot 2023-03-28 155331](https://user-images.githubusercontent.com/118680410/228207841-16c5791c-9fa3-4e75-9a82-3688e6cd80c8.png)
+![Screenshot 2023-03-28 155339](https://user-images.githubusercontent.com/118680410/228207844-26a4e0ee-4b72-4ae7-86aa-b3498290fc69.png)
+![Screenshot 2023-03-28 155346](https://user-images.githubusercontent.com/118680410/228207850-78aa3991-ecbc-407d-9fff-a663ffa780f6.png)
+![Screenshot 2023-03-28 155353](https://user-images.githubusercontent.com/118680410/228207853-f70cc0bb-b67a-4e4f-a770-b4e23ce064ab.png)
+![Screenshot 2023-03-28 155400](https://user-images.githubusercontent.com/118680410/228207859-9db566f0-268b-4e82-a056-1b7466ddead5.png)
+![Screenshot 2023-03-28 155412](https://user-images.githubusercontent.com/118680410/228207862-c616fd40-ea50-4ccc-82ff-6ae1c394be55.png)
+
 ## Diabetes.csv
-Screenshot 2023-03-30 211938 Screenshot 2023-03-30 211953
 
-Screenshot 2023-03-30 212008 Screenshot 2023-03-30 212024 Screenshot 2023-03-30 212037 Screenshot 2023-03-30 212047 Screenshot 2023-03-30 212101 Screenshot 2023-03-30 212111 Screenshot 2023-03-30 212127 Screenshot 2023-03-30 212137
+![Screenshot 2023-03-30 211938](https://user-images.githubusercontent.com/118680410/228897098-9b03b1fb-2e9e-4a5c-8629-f1321503f78c.png)
+![Screenshot 2023-03-30 211953](https://user-images.githubusercontent.com/118680410/228897290-c32a6b68-99c7-464c-adf1-c943222bab52.png)
+
+![Screenshot 2023-03-30 212008](https://user-images.githubusercontent.com/118680410/228897321-3afa4c14-bac9-460c-86eb-4b569f1140fb.png)
+![Screenshot 2023-03-30 212024](https://user-images.githubusercontent.com/118680410/228897343-9b533df9-5808-41ba-b926-a6c368a560b7.png)
+![Screenshot 2023-03-30 212037](https://user-images.githubusercontent.com/118680410/228897356-1d8ad723-96f1-4ca2-9abb-dabb003bc0a3.png)
+![Screenshot 2023-03-30 212047](https://user-images.githubusercontent.com/118680410/228897410-eb383e4d-6785-45d9-8ab3-3721edde23bd.png)
+![Screenshot 2023-03-30 212101](https://user-images.githubusercontent.com/118680410/228897476-8d958b34-2f05-44cf-9eb7-14cec6e69b3a.png)
+![Screenshot 2023-03-30 212111](https://user-images.githubusercontent.com/118680410/228897549-056925e3-9be1-4e64-8b9d-a6063c5da099.png)
+![Screenshot 2023-03-30 212127](https://user-images.githubusercontent.com/118680410/228897590-b123a0d1-93de-457a-8bf7-0e92f1f24cdd.png)
+![Screenshot 2023-03-30 212137](https://user-images.githubusercontent.com/118680410/228897642-560def56-cb8e-4359-bad2-1e2f03d159ed.png)
 # RESULT
 Hence the univariate analysis is verified
